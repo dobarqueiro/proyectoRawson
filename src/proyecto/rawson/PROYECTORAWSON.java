@@ -18,6 +18,7 @@ public class PROYECTORAWSON
     public static void main(String[] args)
     {
         int sdfsdf = 1;
+        String libro = "sasfasf";
     }
     
 }

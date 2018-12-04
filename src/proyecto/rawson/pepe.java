@@ -9,15 +9,7 @@ package proyecto.rawson;
 
  @author Rodrigo
  */
-public class PROYECTORAWSON
+public class pepe
 {
-
-    /**
-     @param args the command line arguments
-     */
-    public static void main(String[] args)
-    {
-        int sdfsdf = 1;
-    }
     
 }

@@ -19,6 +19,7 @@ public class PROYECTORAWSON
     {
         int sdfsdf = 1;
         String libro = "sasfasf";
+        int sdffdsfsd= 3;
     }
     
 }
